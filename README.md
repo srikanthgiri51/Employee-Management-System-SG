@@ -2,9 +2,17 @@
 
 Developed a HDFC Bank like Web App that enables users to securely manage accounts, fund transfers, bill payments, and cards. It uses AES encryption and decryption standards, and undergoes server-side and client-side validations to enhance login security and customer access. 
 
-Spring Boot Offical Webpage - https://spring.io/
+pring Boot Offical Webpage - https://spring.io/
+
 Spring Boot Reference Documentation - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-help
+
 React Offical Webpage - https://react.dev/learn
+
+MySQL Offical Webpage - https://dev.mysql.com/doc/
+
+AES Documentation - https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
+
+Postman API Offical Webpage - https://learning.postman.com/docs/publishing-your-api/documenting-your-api/
 
 ## Technolgies used: 
 - Java 
@@ -14,7 +22,6 @@ React Offical Webpage - https://react.dev/learn
 - REST APIs
 - Postman API
 - React.Js
-- Advanced Encryption Standard (AES)
 
 ## Features
 
@@ -24,10 +31,6 @@ React Offical Webpage - https://react.dev/learn
 - Card management (retrieving gift cards, ATM cards) for 80% of users.
 - Transaction history available for 100% of users.
 - Loan status tracking and locker availability information, used by 40% of users.
-
-## Security Measures
-- AES encryption/decryption standards enhance the security of 100% of customer logins.
-- Server-side and client-side validations ensure 100% of user credentials are encrypted before reaching the server.
 
 
 ## Steps to run in your machine
